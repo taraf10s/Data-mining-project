@@ -1,1 +1,1 @@
-# Data-mining-project
+# Breast cancer stage detection

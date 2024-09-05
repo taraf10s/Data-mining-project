@@ -1,4 +1,5 @@
-# Breast cancer stage detection
+# Diabetes stage detection
+
 ## motivations :
 
 ## Goal :

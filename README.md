@@ -1,7 +1,7 @@
 # Diabetes stage detection
 
 ## motivations :
-
+We chose breast cancer data due to its significant global impact and the need to better understand the disease. Breast cancer affects millions worldwide, making it a crucial area of study in order to help improve early detection and patient care.
 ## Goal :
 
 

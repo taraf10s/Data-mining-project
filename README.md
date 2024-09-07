@@ -5,6 +5,8 @@ We chose diabetes dataset due to its significant global impact and the need to b
 ## Goal :
 The goal of selecting a diabetes dataset comprising medical information and laboratory analyses is to gain a comprehensive understanding of the factors influencing diabetes risk and management. 
 we aim to identify key predictors of diabetes,  and support the development of tailored prevention and treatment strategies.
+## Data source :
+
 ## names & ID : 
 
 1-Taraf Salman Alsubaie 443200819

@@ -1,12 +1,5 @@
 # Diabetes stage detection
 
-## motivations :
-We chose diabetes dataset due to its significant global impact and the need to better understand the disease. Diabetes affects millions worldwide, making it a crucial area of study in order to help improve early detection and patient care.
-## Goal :
-The goal of selecting a diabetes dataset comprising medical information and laboratory analyses is to gain a comprehensive understanding of the factors influencing diabetes risk and management. 
-we aim to identify key predictors of diabetes,  and support the development of tailored prevention and treatment strategies.
-## Data source :
-https://www.kaggle.com/datasets/aravindpcoder/diabetes-dataset
 ## names & ID : 
 
 1-Taraf Salman Alsubaie 443200819
@@ -19,4 +12,11 @@ https://www.kaggle.com/datasets/aravindpcoder/diabetes-dataset
 
 5-Danah Alaskar 444200365
 
+## motivations :
+We chose diabetes dataset due to its significant global impact and the need to better understand the disease. Diabetes affects millions worldwide, making it a crucial area of study in order to help improve early detection and patient care.
+## Goal :
+The goal of selecting a diabetes dataset comprising medical information and laboratory analyses is to gain a comprehensive understanding of the factors influencing diabetes risk and management. 
+we aim to identify key predictors of diabetes,  and support the development of tailored prevention and treatment strategies.
+## Data source :
+https://www.kaggle.com/datasets/aravindpcoder/diabetes-dataset
 ### Work distribution-phase1:

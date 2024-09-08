@@ -24,7 +24,7 @@ Number of attributes: 14.
 
 Attributes type: 
 
-Number of objects:
+Number of objects:1000
 
 Class label: The patient's diabetes disease class may be Diabetic, Non-Diabetic, or Predict-Diabetic.
 

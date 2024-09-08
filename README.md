@@ -18,7 +18,7 @@ We chose diabetes dataset due to its significant global impact and the need to b
 The goal of selecting a diabetes dataset comprising medical information and laboratory analyses is to gain a comprehensive understanding of the factors influencing diabetes risk and management. 
 we aim to identify key predictors of diabetes,  and support the development of tailored prevention and treatment strategies.
 ## Data source :
-https://www.kaggle.com/datasets/aravindpcoder/diabetes-dataset.
+The source of our dataset coming from this link: https://www.kaggle.com/datasets/aravindpcoder/diabetes-dataset.
 ## Dataset :
 Number of attributes: 14.
 

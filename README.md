@@ -14,12 +14,17 @@
 
 ## motivations :
 We chose diabetes dataset due to its significant global impact and the need to better understand the disease. Diabetes affects millions worldwide, making it a crucial area of study in order to help improve early detection and patient care.
+
 ## Goal :
 The goal of selecting a diabetes dataset comprising medical information and laboratory analyses is to gain a comprehensive understanding of the factors influencing diabetes risk and management. 
 we aim to identify key predictors of diabetes,  and support the development of tailored prevention and treatment strategies.
+
 ## Data source :
 The source of our dataset coming from this link: https://www.kaggle.com/datasets/aravindpcoder/diabetes-dataset.
+
 ## Dataset :
+In our dataset, we provide detailed information on the types of attributes for each of the 14 columns, By clearly defining the type of each attribute, we ensure a comprehensive understanding of the data structure. This clarity is instrumental in facilitating more effective and efficient analysis, allowing for better insights and informed decision-making based on the data.
+
 Number of attributes: 14.
 
 Attributes type: 

@@ -10,8 +10,7 @@
 
 4-Sheikha bin Moammar 444200827
 
-5-Danah Alaskar 444200365
-
+5-Danah Alaskar 444200365 
 ## motivations :
 We chose diabetes dataset due to its significant global impact and the need to better understand the disease. Diabetes affects millions worldwide, making it a crucial area of study in order to help improve early detection and patient care.
 

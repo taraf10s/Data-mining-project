@@ -16,8 +16,9 @@
 We chose diabetes dataset due to its significant global impact and the need to better understand the disease. Diabetes affects millions worldwide, making it a crucial area of study in order to help improve early detection and patient care.
 
 ## Goal :
-The goal of selecting a diabetes dataset comprising medical information and laboratory analyses is to gain a comprehensive understanding of the factors influencing diabetes risk and management. 
-we aim to identify key predictors of diabetes,  and support the development of tailored prevention and treatment strategies.
+Our goal for this project is to develop a model that identifies diabetes risk by analyzing relevant health metrics.We aim to categorize individuals based on diagnostic results and compare these measurements to facilitate timely intervention. This will be achieved by training the model to predict whether an individual is the patient's diabetes disease class may be Diabetic, Non-Diabetic, or Predict-Diabetic.
+
+Additionally, we seek to identify key predictors of diabetes to support the development of tailored prevention and treatment strategies
 
 ## Data source :
 The source of our dataset coming from this link: https://www.kaggle.com/datasets/aravindpcoder/diabetes-dataset.

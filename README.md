@@ -29,19 +29,33 @@ In our dataset, we provide detailed information on the types of attributes for e
 Number of attributes: 14.
 
 Attributes type: 
+
 ID = Nominal and Integer
+
 No_Pation = Numeric and Integer
+
 Gender =  Binary
+
 AGE =  Numeric and Integer
+
 Urea =  Numeric and float
+
 Cr = Numeric and Integer
+
 HbA1c = Numeric and float
+
 Chol =  Numeric and float
+
 TG = Numeric and float
+
 HDL = Numeric and float
+
 LDL =  Numeric and float
+
 VLDL = Numeric and float
+
 BMI = Numeric and Integer
+
 CLASS = Ordinal
 
 Number of objects:1000

@@ -53,7 +53,7 @@ LDL =  Numeric and float
 
 VLDL = Numeric and float
 
-BMI = Numeric and Integer
+BMI = Numeric and float
 
 CLASS = Ordinal
 

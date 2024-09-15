@@ -27,37 +27,37 @@ In our dataset, we provide detailed information on the types of attributes for e
 
 Number of attributes: 14.
 
-Attributes type: 
+Attributes type:- 
 
-ID = Nominal and Integer
+ID = Nominal and Integer.
 
-No_Pation = Numeric and Integer
+No_Pation = Numeric and Integer.
 
-Gender =  Binary
+Gender =  Binary.
 
-AGE =  Numeric and Integer
+AGE =  Numeric and Integer.
 
-Urea =  Numeric and float
+Urea =  Numeric and float.
 
-Cr = Numeric and Integer
+Cr = Numeric and Integer.
 
-HbA1c = Numeric and float
+HbA1c = Numeric and float.
 
-Chol =  Numeric and float
+Chol =  Numeric and float.
 
-TG = Numeric and float
+TG = Numeric and float.
 
-HDL = Numeric and float
+HDL = Numeric and float.
 
-LDL =  Numeric and float
+LDL =  Numeric and float.
 
-VLDL = Numeric and float
+VLDL = Numeric and float.
 
-BMI = Numeric and float
+BMI = Numeric and float.
 
-CLASS = Ordinal
+CLASS = Ordinal.
 
-Number of objects:1000
+Number of objects: 1000.
 
 Class label: The patient's diabetes disease class may be Diabetic, Non-Diabetic, or Predict-Diabetic.
 

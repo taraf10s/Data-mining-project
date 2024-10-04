@@ -16,7 +16,7 @@
 We chose diabetes dataset due to its significant global impact and the need to better understand the disease. Diabetes affects millions worldwide, making it a crucial area of study in order to help improve early detection and patient care.We chose our dataset for classification and clustering.
 
 ## Goal :
-Our goal for this project is to develop a model that identifies diabetes risk by analyzing relevant health metrics.We chose this dataset for clarification and clustering, We aim to categorize individuals based on diagnostic results and compare these measurements to facilitate timely intervention. This will be achieved by training the model to predict whether an individual is the patient's diabetes disease class may be Diabetic, Non-Diabetic, or Predict-Diabetic.
+Our goal for this project is to develop a model that identifies diabetes risk by analyzing relevant health metrics.We chose this dataset for classification and clustering, We aim to categorize individuals based on diagnostic results and compare these measurements to facilitate timely intervention. This will be achieved by training the model to predict whether an individual is the patient's diabetes disease class may be Diabetic, Non-Diabetic, or Predict-Diabetic.
 
 Additionally, we seek to identify key predictors of diabetes to support the development of tailored prevention and treatment strategies
 
